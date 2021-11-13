@@ -20,6 +20,6 @@
 
                                                                                                                                           
                                                                                                                                           
-                                                                                    "A Tecnologia move o mundo". (Steve Jobs).
+                                                                                         "A Tecnologia move o mundo". (Steve Jobs).
 
 
