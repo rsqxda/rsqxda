@@ -1,6 +1,6 @@
 ### Oiiii! Eu sou a Renata 👋👋😜
 ###
-- 🌱 Cursando: Análise e Desenvolvimento de Sistemas
+- 🌱 Cursando: Análise e Desenvolvimento de Sistemas / procuro estágio na área front.
 - 🌱 Conhecimento em Git, GitHub, HTML, CSS e JavaScript.
 - 😄 Pronouns: ela/dela
 
