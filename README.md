@@ -1,7 +1,7 @@
 ### Oiiii! Eu sou a Renata 👋👋😜
 ###
 - 🌱 Cursando: Análise e Desenvolvimento de Sistemas.
-- 🌱 Conhecimento em Git, GitHub, HTML, CSS e JavaScript.
+- 🌱 Conhecimento HTML, CSS e JavaScript.
 - 😄 Pronouns: ela/dela
 
 <a href="https://linkedin.com/in/rsqxda2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
