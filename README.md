@@ -1,9 +1,9 @@
 ### Oiiii! Eu sou a Renata 👋👋😜
 ###
 - 🌱 Cursando: Análise e Desenvolvimento de Sistemas.
-- 🌱 Conhecimento: Power BI, HTML, CSS
-- 🌱 Aprendendo: JavaScript e Python
-- 😄 Pronouns: ela/dela
+- 🌱 Conhecimento: Power BI, HTML, CSS, Python.
+- 🌱 Aprendendo: JavaScript, Vue e React.
+- 😄 Pronouns: ela/dela.
 
 <a href="https://linkedin.com/in/rsqxda2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/rsqxda"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
