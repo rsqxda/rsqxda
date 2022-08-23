@@ -2,7 +2,7 @@
 ###
 - 🌱 Cursando: Análise e Desenvolvimento de Sistemas.
 - 🌱 Conhecimento: Power BI, HTML, CSS, Python.
-- 🌱 Aprendendo: JavaScript, Vue e React.
+- 🌱 Aprendendo: JavaScript e React.
 - 😄 Pronouns: ela/dela.
 
 <a href="https://linkedin.com/in/rsqxda2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
