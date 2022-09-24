@@ -1,7 +1,7 @@
 ### Oiiii! Eu sou a Renata 👋👋😜
 ###
 - 🌱 Cursando: Análise e Desenvolvimento de Sistemas.
-- 🌱 Conhecimento: Power BI, HTML, CSS, Python.
+- 🌱 Conhecimento: HTML, CSS.
 - 🌱 Aprendendo: JavaScript e React.
 - 😄 Pronouns: ela/dela.
 
